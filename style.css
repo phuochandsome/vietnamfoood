@@ -5,10 +5,21 @@ h1{
     text-align:center;
     
 }
-
+header img{
+    width: 200px;
+    height:200px
+}
+main img{
+     width: 400px;
+    height: 200px
+}
+main h1{
+    
+}
 a{
     text-decoration: none;
     border: 5px solid cyan;
     padding: 15px;
     border-radius: 10px;
 }
+
