@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align:center;
+    
+}
+
+a{
+    text-decoration: none;
+    border: 5px solid cyan;
+    padding: 15px;
+    border-radius: 10px;
+}
