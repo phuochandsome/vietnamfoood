@@ -5,23 +5,25 @@ h1{
     text-align:center;
     
 }
-header img{
-    width: 300px;
-    height:200px;
-}
-main img{
-    width: 400px;
-    height: 300px;
-}
-main h1{
-    height:200px;
-    width:200px;
-}
+
 a{
     text-decoration: none;
     border: 5px solid cyan;
     padding: 15px;
     border-radius: 10px;
 }
+h2{
+    text-align: Center;
+    border: 6px solid #f2e70c;
+    padding: 10px;
+    border-radius: 15px;
+    color: Red;
+    display:inline-block;
+    margin-left: 300px;
 
+}
+footer a{
+    text-align: Center;
+
+}
 
